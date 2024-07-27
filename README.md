@@ -16,5 +16,11 @@ A Spring Boot application for managing student records with full CRUD (Create, R
 - **Spring Boot Rest**: for making the applicaiton as restful
 - **MySql**: Relational database for storing student data.
 
+## Dependencies
+-Spring Web 
+-Lombok
+-Spring Data Jpa
+-Mysql Driver
+
 
 
